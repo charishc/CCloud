@@ -6,5 +6,8 @@
         "repo": "LeeJuOh/claude-code-zero"
       }
     }
+  },
+  "enabledPlugins": {
+    "notebooklm-connector@claude-code-zero": true
   }
 }
