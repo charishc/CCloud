@@ -1,0 +1,10 @@
+{
+  "extraKnownMarketplaces": {
+    "claude-code-zero": {
+      "source": {
+        "source": "github",
+        "repo": "LeeJuOh/claude-code-zero"
+      }
+    }
+  }
+}
